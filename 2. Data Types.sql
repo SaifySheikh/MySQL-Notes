@@ -42,15 +42,15 @@ CREATE TABLE comments (
 );
 
 INSERT INTO comments (author, content) 
-VALUES ('HuXn', 'This is a great article!'),
-       ('Jordan', 'I have a question about this topic.'),
-       ('Charlie', 'Thanks for sharing this information.');
+VALUES ('Saify', 'This is a great article!'),
+       ('Sharif', 'I have a question about this topic.'),
+       ('Shah Rukh', 'Thanks for sharing this information.');
 
 
 SELECT * FROM COMMENTS;
 
 -- updating
-UPDATE comments SET content="tf is going on here?" WHERE id=1;
+UPDATE comments SET content="What is going on here?" WHERE id=1;
 UPDATE comments SET content="Never mind my query is resolved" WHERE id=2;
 SELECT * FROM COMMENTS;
 -- --------------------------------
