@@ -10,6 +10,7 @@ This repository contains a collection of SQL scripts organized by different cate
 3. [Functions](#functions)
 4. [Operators](#operators)
 5. [Constraints](#constraints)
+6. [One-to-many-and-joins](#One-to-many-and-joins)
 
 ---
 
