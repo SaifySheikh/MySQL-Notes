@@ -100,6 +100,28 @@ CREATE TABLE employee (
 );
 ```
 
+## One-to-many-and-joins
+
+**File:** `One-to-many-and-joins.sql`
+This file explores one-to-many relationships and SQL joins:
+
+- Creating related tables using `FOREIGN KEY`.
+- Inserting data into related tables.
+- Various types of joins:
+  - `CROSS JOIN`
+  - `INNER JOIN`
+  - `LEFT JOIN`
+  - `RIGHT JOIN`
+- Selecting data from related tables using different join operations.
+
+## Many-to-Many.sql
+
+**File:** `many-to-many.sql`
+This file covers many-to-many relationships (file content is truncated in the original request, please include full content):
+
+- Creating tables for many-to-many relationships.
+- Inserting and querying data across related tables.
+
 ---
 
 ## How to Use
